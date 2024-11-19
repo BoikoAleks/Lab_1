@@ -1,0 +1,10 @@
+---
+:model: Смартфон APPLE iPhone 15 Pro Max
+:name: Смартфон APPLE iPhone 15 Pro Max 256 GB Natural Titanium (MU793RX/A)
+:link: https://www.foxtrot.com.ua/uk/shop/smartfoniy_i_mobilniye_telefoniy_apple_iphone_15_pro_max_256gb_deep_purple.html
+:base_price: 57999
+:memory_options:
+- :capacity: 256GB
+  :price: 57999
+- :capacity: 512GB
+  :price: 67999

@@ -1,0 +1,17 @@
+# config/config.yml
+default: &default
+  base_url: 'https://www.foxtrot.com.ua'
+  phones_path: '/uk/shop/mobilnye_telefony_apple.html'
+  user_agent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+  retry_attempts: 3
+  retry_delay: 2
+  log_level: 'info'
+  output_file: 'output/iphones.json'
+  log_file: 'log/scraper.log'
+
+development:
+  <<: *default
+
+production:
+  <<: *default
+  log_level: 'warn'

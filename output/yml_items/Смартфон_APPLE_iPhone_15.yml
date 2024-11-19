@@ -1,0 +1,10 @@
+---
+:model: Смартфон APPLE iPhone 15
+:name: Смартфон APPLE iPhone 15 128GB Black (MTP03RX/A)
+:link: https://www.foxtrot.com.ua/uk/shop/smartfoniy-i-mobilniye-telefoniy-apple-iphone-15-128gb-midnight.html
+:base_price: 38999
+:memory_options:
+- :capacity: 128GB
+  :price: 38999
+- :capacity: 256GB
+  :price: 43999

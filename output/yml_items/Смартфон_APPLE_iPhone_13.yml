@@ -1,0 +1,10 @@
+---
+:model: Смартфон APPLE iPhone 13
+:name: Смартфон APPLE iPhone 13 128GB Starlight (MLPG3HU/A)
+:link: https://www.foxtrot.com.ua/uk/shop/smartfoniy_i_mobilniye_telefoniy_apple_iphone_13_128gb_white.html
+:base_price: 26499
+:memory_options:
+- :capacity: 128GB
+  :price: 26499
+- :capacity: 256GB
+  :price: 32999

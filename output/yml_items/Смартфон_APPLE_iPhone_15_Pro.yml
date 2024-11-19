@@ -1,0 +1,12 @@
+---
+:model: Смартфон APPLE iPhone 15 Pro
+:name: Смартфон APPLE iPhone 15 Pro 128GB Natural Titanium (MTUX3RX/A)
+:link: https://www.foxtrot.com.ua/uk/shop/smartfoniy_i_mobilniye_telefoniy_apple_iphone_15_pro_128gb_deep_purple.html
+:base_price: 47999
+:memory_options:
+- :capacity: 128GB
+  :price: 47999
+- :capacity: 256GB
+  :price: 52999
+- :capacity: 512GB
+  :price: 62999

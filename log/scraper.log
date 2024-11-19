@@ -1,0 +1,148 @@
+# Logfile created on 2024-11-19 12:25:16 +0200 by logger.rb/v1.6.1
+[2024-11-19 12:25:16 +0200] INFO: Starting scraping process
+[2024-11-19 12:25:17 +0200] INFO: Found 50 products
+[2024-11-19 12:25:17 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 12:25:17 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 12:25:17 +0200] INFO: Scraping completed successfully
+[2024-11-19 12:25:17 +0200] INFO: Starting scraping process
+[2024-11-19 12:25:18 +0200] INFO: Found 50 products
+[2024-11-19 12:25:18 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 12:25:18 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 12:25:18 +0200] INFO: Scraping completed successfully
+[2024-11-19 17:29:37 +0200] INFO: Starting scraping process
+[2024-11-19 17:29:39 +0200] INFO: Found 50 products
+[2024-11-19 17:29:39 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 17:29:39 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 17:29:39 +0200] INFO: Scraping completed successfully
+[2024-11-19 17:29:39 +0200] INFO: Starting scraping process
+[2024-11-19 17:29:40 +0200] INFO: Found 50 products
+[2024-11-19 17:29:40 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 17:29:40 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 17:29:40 +0200] INFO: Scraping completed successfully
+[2024-11-19 18:00:52 +0200] INFO: Starting scraping process
+[2024-11-19 18:00:54 +0200] INFO: Found 50 products
+[2024-11-19 18:00:54 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 18:00:54 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 18:00:54 +0200] INFO: Scraping completed successfully
+[2024-11-19 18:00:54 +0200] INFO: Starting scraping process
+[2024-11-19 18:00:55 +0200] INFO: Found 50 products
+[2024-11-19 18:00:55 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 18:00:55 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 18:00:55 +0200] INFO: Scraping completed successfully
+[2024-11-19 18:00:55 +0200] INFO: Saved Смартфон APPLE iPhone 16 to output/yml_items/Смартфон_APPLE_iPhone_16.yml
+[2024-11-19 18:00:55 +0200] INFO: Saved Смартфон APPLE iPhone 13 to output/yml_items/Смартфон_APPLE_iPhone_13.yml
+[2024-11-19 18:00:55 +0200] INFO: Saved Смартфон APPLE iPhone 16 Pro to output/yml_items/Смартфон_APPLE_iPhone_16_Pro.yml
+[2024-11-19 18:00:55 +0200] INFO: Saved Смартфон APPLE iPhone 15 Pro Max to output/yml_items/Смартфон_APPLE_iPhone_15_Pro_Max.yml
+[2024-11-19 18:02:11 +0200] INFO: Starting scraping process
+[2024-11-19 18:02:12 +0200] INFO: Found 50 products
+[2024-11-19 18:02:12 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 18:02:12 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 18:02:12 +0200] INFO: Scraping completed successfully
+[2024-11-19 18:02:12 +0200] INFO: Starting scraping process
+[2024-11-19 18:02:13 +0200] INFO: Found 50 products
+[2024-11-19 18:02:13 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 18:02:13 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 18:02:13 +0200] INFO: Scraping completed successfully
+[2024-11-19 18:02:13 +0200] INFO: Saved Смартфон APPLE iPhone 16 to output/yml_items/Смартфон_APPLE_iPhone_16.yml
+[2024-11-19 18:02:13 +0200] INFO: Saved Смартфон APPLE iPhone 13 to output/yml_items/Смартфон_APPLE_iPhone_13.yml
+[2024-11-19 18:02:13 +0200] INFO: Saved Смартфон APPLE iPhone 16 Pro to output/yml_items/Смартфон_APPLE_iPhone_16_Pro.yml
+[2024-11-19 18:02:13 +0200] INFO: Saved Смартфон APPLE iPhone 15 Pro Max to output/yml_items/Смартфон_APPLE_iPhone_15_Pro_Max.yml
+[2024-11-19 18:02:43 +0200] INFO: Starting scraping process
+[2024-11-19 18:02:44 +0200] INFO: Found 50 products
+[2024-11-19 18:02:44 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 18:02:44 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 18:02:44 +0200] INFO: Scraping completed successfully
+[2024-11-19 18:02:44 +0200] INFO: Starting scraping process
+[2024-11-19 18:02:45 +0200] INFO: Found 50 products
+[2024-11-19 18:02:45 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 18:02:45 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 18:02:45 +0200] INFO: Scraping completed successfully
+[2024-11-19 18:02:45 +0200] INFO: Saved Смартфон APPLE iPhone 16 to output/yml_items/Смартфон_APPLE_iPhone_16.yml
+[2024-11-19 18:02:45 +0200] INFO: Saved Смартфон APPLE iPhone 13 to output/yml_items/Смартфон_APPLE_iPhone_13.yml
+[2024-11-19 18:02:45 +0200] INFO: Saved Смартфон APPLE iPhone 16 Pro to output/yml_items/Смартфон_APPLE_iPhone_16_Pro.yml
+[2024-11-19 18:02:45 +0200] INFO: Saved Смартфон APPLE iPhone 15 Pro Max to output/yml_items/Смартфон_APPLE_iPhone_15_Pro_Max.yml
+[2024-11-19 18:02:45 +0200] INFO: Saved Смартфон APPLE iPhone 13 128 Gb Green (MNGK3HU/A) to output/yml_items/Смартфон_APPLE_iPhone_13_128_Gb_Green_MNGK3HUA.yml
+[2024-11-19 18:02:45 +0200] INFO: Saved Смартфон APPLE iPhone 15 Pro to output/yml_items/Смартфон_APPLE_iPhone_15_Pro.yml
+[2024-11-19 18:02:45 +0200] INFO: Saved Смартфон APPLE iPhone 15 to output/yml_items/Смартфон_APPLE_iPhone_15.yml
+[2024-11-19 18:02:45 +0200] INFO: Saved APPLE iPhone 15 Pro to output/yml_items/APPLE_iPhone_15_Pro.yml
+[2024-11-19 18:02:45 +0200] INFO: Saved Смартфон APPLE iPhone 16 Pro Max to output/yml_items/Смартфон_APPLE_iPhone_16_Pro_Max.yml
+[2024-11-19 18:02:45 +0200] INFO: Saved Смартфон APPLE iPhone 16 Pro Max 1TB White Titanium (MYX53SX/A) to output/yml_items/Смартфон_APPLE_iPhone_16_Pro_Max_1TB_White_Titanium_MYX53SXA.yml
+[2024-11-19 18:02:45 +0200] INFO: Saved APPLE iPhone 14 to output/yml_items/APPLE_iPhone_14.yml
+[2024-11-19 18:02:45 +0200] INFO: Saved APPLE iPhone 14 Plus to output/yml_items/APPLE_iPhone_14_Plus.yml
+[2024-11-19 18:02:45 +0200] INFO: Saved APPLE iPhone 15 Pro Max to output/yml_items/APPLE_iPhone_15_Pro_Max.yml
+[2024-11-19 18:02:45 +0200] INFO: Saved APPLE iPhone 15 Plus to output/yml_items/APPLE_iPhone_15_Plus.yml
+[2024-11-19 18:06:04 +0200] INFO: Starting scraping process
+[2024-11-19 18:06:06 +0200] INFO: Found 50 products
+[2024-11-19 18:06:06 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 18:06:06 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 18:06:06 +0200] INFO: Scraping completed successfully
+[2024-11-19 18:06:06 +0200] INFO: Starting scraping process
+[2024-11-19 18:06:08 +0200] INFO: Found 50 products
+[2024-11-19 18:06:08 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 18:06:08 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 18:06:08 +0200] INFO: Scraping completed successfully
+[2024-11-19 18:06:08 +0200] INFO: Saved Смартфон APPLE iPhone 16 to output/yml_items/Смартфон_APPLE_iPhone_16.yml
+[2024-11-19 18:06:08 +0200] INFO: Saved Смартфон APPLE iPhone 13 to output/yml_items/Смартфон_APPLE_iPhone_13.yml
+[2024-11-19 18:06:08 +0200] INFO: Saved Смартфон APPLE iPhone 16 Pro to output/yml_items/Смартфон_APPLE_iPhone_16_Pro.yml
+[2024-11-19 18:06:08 +0200] INFO: Saved Смартфон APPLE iPhone 15 Pro Max to output/yml_items/Смартфон_APPLE_iPhone_15_Pro_Max.yml
+[2024-11-19 18:06:08 +0200] INFO: Saved Смартфон APPLE iPhone 13 128 Gb Green (MNGK3HU/A) to output/yml_items/Смартфон_APPLE_iPhone_13_128_Gb_Green_MNGK3HUA.yml
+[2024-11-19 18:06:08 +0200] INFO: Saved Смартфон APPLE iPhone 15 Pro to output/yml_items/Смартфон_APPLE_iPhone_15_Pro.yml
+[2024-11-19 18:06:08 +0200] INFO: Saved Смартфон APPLE iPhone 15 to output/yml_items/Смартфон_APPLE_iPhone_15.yml
+[2024-11-19 18:06:08 +0200] INFO: Saved APPLE iPhone 15 Pro to output/yml_items/APPLE_iPhone_15_Pro.yml
+[2024-11-19 18:06:08 +0200] INFO: Saved Смартфон APPLE iPhone 16 Pro Max to output/yml_items/Смартфон_APPLE_iPhone_16_Pro_Max.yml
+[2024-11-19 18:06:08 +0200] INFO: Saved Смартфон APPLE iPhone 16 Pro Max 1TB White Titanium (MYX53SX/A) to output/yml_items/Смартфон_APPLE_iPhone_16_Pro_Max_1TB_White_Titanium_MYX53SXA.yml
+[2024-11-19 18:06:08 +0200] INFO: Saved APPLE iPhone 14 to output/yml_items/APPLE_iPhone_14.yml
+[2024-11-19 18:06:08 +0200] INFO: Saved APPLE iPhone 14 Plus to output/yml_items/APPLE_iPhone_14_Plus.yml
+[2024-11-19 18:06:08 +0200] INFO: Saved APPLE iPhone 15 Pro Max to output/yml_items/APPLE_iPhone_15_Pro_Max.yml
+[2024-11-19 18:06:08 +0200] INFO: Saved APPLE iPhone 15 Plus to output/yml_items/APPLE_iPhone_15_Plus.yml
+[2024-11-19 18:06:08 +0200] INFO: Item collection created with 14 items
+[2024-11-19 18:08:04 +0200] INFO: Starting scraping process
+[2024-11-19 18:08:06 +0200] INFO: Found 50 products
+[2024-11-19 18:08:06 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 18:08:06 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 18:08:06 +0200] INFO: Scraping completed successfully
+[2024-11-19 18:08:06 +0200] INFO: Starting scraping process
+[2024-11-19 18:08:07 +0200] INFO: Found 50 products
+[2024-11-19 18:08:07 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 18:08:07 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 18:08:07 +0200] INFO: Scraping completed successfully
+[2024-11-19 18:08:07 +0200] INFO: Saved Смартфон APPLE iPhone 16 to output/yml_items/Смартфон_APPLE_iPhone_16.yml
+[2024-11-19 18:08:07 +0200] INFO: Saved Смартфон APPLE iPhone 13 to output/yml_items/Смартфон_APPLE_iPhone_13.yml
+[2024-11-19 18:08:07 +0200] INFO: Saved Смартфон APPLE iPhone 16 Pro to output/yml_items/Смартфон_APPLE_iPhone_16_Pro.yml
+[2024-11-19 18:08:07 +0200] INFO: Saved Смартфон APPLE iPhone 15 Pro Max to output/yml_items/Смартфон_APPLE_iPhone_15_Pro_Max.yml
+[2024-11-19 18:08:07 +0200] INFO: Saved Смартфон APPLE iPhone 13 128 Gb Green (MNGK3HU/A) to output/yml_items/Смартфон_APPLE_iPhone_13_128_Gb_Green_MNGK3HUA.yml
+[2024-11-19 18:08:07 +0200] INFO: Saved Смартфон APPLE iPhone 15 Pro to output/yml_items/Смартфон_APPLE_iPhone_15_Pro.yml
+[2024-11-19 18:08:07 +0200] INFO: Saved Смартфон APPLE iPhone 15 to output/yml_items/Смартфон_APPLE_iPhone_15.yml
+[2024-11-19 18:08:07 +0200] INFO: Saved APPLE iPhone 15 Pro to output/yml_items/APPLE_iPhone_15_Pro.yml
+[2024-11-19 18:08:07 +0200] INFO: Saved Смартфон APPLE iPhone 16 Pro Max to output/yml_items/Смартфон_APPLE_iPhone_16_Pro_Max.yml
+[2024-11-19 18:08:07 +0200] INFO: Saved Смартфон APPLE iPhone 16 Pro Max 1TB White Titanium (MYX53SX/A) to output/yml_items/Смартфон_APPLE_iPhone_16_Pro_Max_1TB_White_Titanium_MYX53SXA.yml
+[2024-11-19 18:08:07 +0200] INFO: Saved APPLE iPhone 14 to output/yml_items/APPLE_iPhone_14.yml
+[2024-11-19 18:08:07 +0200] INFO: Saved APPLE iPhone 14 Plus to output/yml_items/APPLE_iPhone_14_Plus.yml
+[2024-11-19 18:08:07 +0200] INFO: Saved APPLE iPhone 15 Pro Max to output/yml_items/APPLE_iPhone_15_Pro_Max.yml
+[2024-11-19 18:08:07 +0200] INFO: Saved APPLE iPhone 15 Plus to output/yml_items/APPLE_iPhone_15_Plus.yml
+[2024-11-19 18:08:07 +0200] INFO: Item collection created with 14 items
+[2024-11-19 18:11:08 +0200] INFO: Starting scraping process
+[2024-11-19 18:11:10 +0200] INFO: Found 50 products
+[2024-11-19 18:11:10 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 18:11:10 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 18:11:10 +0200] INFO: Scraping completed successfully
+[2024-11-19 18:11:10 +0200] INFO: Starting scraping process
+[2024-11-19 18:11:11 +0200] INFO: Found 50 products
+[2024-11-19 18:11:11 +0200] INFO: Total unique models parsed: 14
+[2024-11-19 18:11:11 +0200] INFO: Data successfully saved to output/iphones.json
+[2024-11-19 18:11:11 +0200] INFO: Scraping completed successfully
+[2024-11-19 18:11:11 +0200] INFO: Saved Смартфон APPLE iPhone 16 to output/yml_items/Смартфон_APPLE_iPhone_16.yml
+[2024-11-19 18:11:11 +0200] INFO: Saved Смартфон APPLE iPhone 13 to output/yml_items/Смартфон_APPLE_iPhone_13.yml
+[2024-11-19 18:11:11 +0200] INFO: Saved Смартфон APPLE iPhone 16 Pro to output/yml_items/Смартфон_APPLE_iPhone_16_Pro.yml
+[2024-11-19 18:11:11 +0200] INFO: Saved Смартфон APPLE iPhone 15 Pro Max to output/yml_items/Смартфон_APPLE_iPhone_15_Pro_Max.yml
+[2024-11-19 18:11:11 +0200] INFO: Saved Смартфон APPLE iPhone 13 128 Gb Green (MNGK3HU/A) to output/yml_items/Смартфон_APPLE_iPhone_13_128_Gb_Green_MNGK3HUA.yml
+[2024-11-19 18:11:11 +0200] INFO: Saved Смартфон APPLE iPhone 15 Pro to output/yml_items/Смартфон_APPLE_iPhone_15_Pro.yml
+[2024-11-19 18:11:11 +0200] INFO: Saved Смартфон APPLE iPhone 15 to output/yml_items/Смартфон_APPLE_iPhone_15.yml
+[2024-11-19 18:11:11 +0200] INFO: Saved APPLE iPhone 15 Pro to output/yml_items/APPLE_iPhone_15_Pro.yml
+[2024-11-19 18:11:11 +0200] INFO: Saved Смартфон APPLE iPhone 16 Pro Max to output/yml_items/Смартфон_APPLE_iPhone_16_Pro_Max.yml
+[2024-11-19 18:11:11 +0200] INFO: Saved Смартфон APPLE iPhone 16 Pro Max 1TB White Titanium (MYX53SX/A) to output/yml_items/Смартфон_APPLE_iPhone_16_Pro_Max_1TB_White_Titanium_MYX53SXA.yml
+[2024-11-19 18:11:11 +0200] INFO: Saved APPLE iPhone 14 to output/yml_items/APPLE_iPhone_14.yml
+[2024-11-19 18:11:11 +0200] INFO: Saved APPLE iPhone 14 Plus to output/yml_items/APPLE_iPhone_14_Plus.yml
+[2024-11-19 18:11:11 +0200] INFO: Saved APPLE iPhone 15 Pro Max to output/yml_items/APPLE_iPhone_15_Pro_Max.yml
+[2024-11-19 18:11:11 +0200] INFO: Saved APPLE iPhone 15 Plus to output/yml_items/APPLE_iPhone_15_Plus.yml
+[2024-11-19 18:11:11 +0200] INFO: Item collection created with 14 items

@@ -1,0 +1,117 @@
+---
+:total_items: 14
+:items:
+- :model: Смартфон APPLE iPhone 16
+  :name: Смартфон APPLE iPhone 16 128GB Ultramarine (MYEC3SX/A)
+  :link: https://www.foxtrot.com.ua/uk/shop/smartfoniy-i-mobilniye-telefoniy-apple-iphone-16-128gb-blue.html
+  :base_price: 44999
+  :memory_options:
+  - :capacity: 128GB
+    :price: 44999
+  - :capacity: 256GB
+    :price: 49999
+- :model: Смартфон APPLE iPhone 13
+  :name: Смартфон APPLE iPhone 13 128GB Starlight (MLPG3HU/A)
+  :link: https://www.foxtrot.com.ua/uk/shop/smartfoniy_i_mobilniye_telefoniy_apple_iphone_13_128gb_white.html
+  :base_price: 26499
+  :memory_options:
+  - :capacity: 128GB
+    :price: 26499
+  - :capacity: 256GB
+    :price: 32999
+- :model: Смартфон APPLE iPhone 16 Pro
+  :name: Смартфон APPLE iPhone 16 Pro 256GB Desert Titanium (MYNK3SX/A)
+  :link: https://www.foxtrot.com.ua/uk/shop/smartfoniy-i-mobilniye-telefoniy-apple-iphone-16-pro-256gb-brown-titanium.html
+  :base_price: 64999
+  :memory_options:
+  - :capacity: 128GB
+    :price: 59999
+  - :capacity: 256GB
+    :price: 64999
+- :model: Смартфон APPLE iPhone 15 Pro Max
+  :name: Смартфон APPLE iPhone 15 Pro Max 256 GB Natural Titanium (MU793RX/A)
+  :link: https://www.foxtrot.com.ua/uk/shop/smartfoniy_i_mobilniye_telefoniy_apple_iphone_15_pro_max_256gb_deep_purple.html
+  :base_price: 57999
+  :memory_options:
+  - :capacity: 256GB
+    :price: 57999
+  - :capacity: 512GB
+    :price: 67999
+- :model: Смартфон APPLE iPhone 13 128 Gb Green (MNGK3HU/A)
+  :name: Смартфон APPLE iPhone 13 128 Gb Green (MNGK3HU/A)
+  :link: https://www.foxtrot.com.ua/uk/shop/smartfoniy_i_mobilniye_telefoniy_apple_iphone_13_128gb_green_60_8883.html
+  :base_price: 26499
+  :memory_options:
+  - :capacity: GB
+    :price: 26499
+- :model: Смартфон APPLE iPhone 15 Pro
+  :name: Смартфон APPLE iPhone 15 Pro 128GB Natural Titanium (MTUX3RX/A)
+  :link: https://www.foxtrot.com.ua/uk/shop/smartfoniy_i_mobilniye_telefoniy_apple_iphone_15_pro_128gb_deep_purple.html
+  :base_price: 47999
+  :memory_options:
+  - :capacity: 128GB
+    :price: 47999
+  - :capacity: 256GB
+    :price: 52999
+  - :capacity: 512GB
+    :price: 62999
+- :model: Смартфон APPLE iPhone 15
+  :name: Смартфон APPLE iPhone 15 128GB Black (MTP03RX/A)
+  :link: https://www.foxtrot.com.ua/uk/shop/smartfoniy-i-mobilniye-telefoniy-apple-iphone-15-128gb-midnight.html
+  :base_price: 38999
+  :memory_options:
+  - :capacity: 128GB
+    :price: 38999
+  - :capacity: 256GB
+    :price: 43999
+- :model: APPLE iPhone 15 Pro
+  :name: APPLE iPhone 15 Pro 128GB Blue Titanium (MTV03RX/A)
+  :link: https://www.foxtrot.com.ua/uk/shop/smartfoniy-i-mobilniye-telefoniy-apple-iphone-15-pro-128gb-gold.html
+  :base_price: 47999
+  :memory_options:
+  - :capacity: 128GB
+    :price: 47999
+- :model: Смартфон APPLE iPhone 16 Pro Max
+  :name: Смартфон APPLE iPhone 16 Pro Max 512GB Desert Titanium (MYX23SX/A)
+  :link: https://www.foxtrot.com.ua/uk/shop/smartfoniy-i-mobilniye-telefoniy-apple-iphone-16-pro-max-512gb-brown-titanium.html
+  :base_price: 80999
+  :memory_options:
+  - :capacity: 256GB
+    :price: 70999
+  - :capacity: 512GB
+    :price: 80999
+- :model: Смартфон APPLE iPhone 16 Pro Max 1TB White Titanium (MYX53SX/A)
+  :name: Смартфон APPLE iPhone 16 Pro Max 1TB White Titanium (MYX53SX/A)
+  :link: https://www.foxtrot.com.ua/uk/shop/smartfoniy-i-mobilniye-telefoniy-apple-iphone-16-pro-max-1tb-white-titanium.html
+  :base_price: 90999
+  :memory_options:
+  - :capacity: GB
+    :price: 90999
+- :model: APPLE iPhone 14
+  :name: APPLE iPhone 14 128GB Midnight
+  :link: https://www.foxtrot.com.ua/uk/shop/smartfoniy_i_mobilniye_telefoniy_apple_iphone_14_128gb_midnight.html
+  :base_price: 31999
+  :memory_options:
+  - :capacity: 128GB
+    :price: 31999
+- :model: APPLE iPhone 14 Plus
+  :name: APPLE iPhone 14 Plus 128GB Midnight
+  :link: https://www.foxtrot.com.ua/uk/shop/smartfoniy_i_mobilniye_telefoniy_apple_iphone_14_mini_128gb_midnight.html
+  :base_price: 40999
+  :memory_options:
+  - :capacity: 128GB
+    :price: 40999
+- :model: APPLE iPhone 15 Pro Max
+  :name: APPLE iPhone 15 Pro Max 512GB Blue Titanium (MU7F3RX/A)
+  :link: https://www.foxtrot.com.ua/uk/shop/smartfoniy_i_mobilniye_telefoniy_apple_iphone_15_pro_max_512gb_gold.html
+  :base_price: 67999
+  :memory_options:
+  - :capacity: 512GB
+    :price: 67999
+- :model: APPLE iPhone 15 Plus
+  :name: APPLE iPhone 15 Plus 256GB Pink (MU193RX/A)
+  :link: https://www.foxtrot.com.ua/uk/shop/smartfoniy_i_mobilniye_telefoniy_apple_iphone_15_plus_256gb_purple.html
+  :base_price: 45999
+  :memory_options:
+  - :capacity: 256GB
+    :price: 45999

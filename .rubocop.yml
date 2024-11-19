@@ -1,0 +1,12 @@
+Style/FrozenStringLiteralComment:
+  Enabled: false
+Layout/LineLength:
+  Max: 120
+Layout/CommentIndentation:
+  Enabled: false
+Style/StringLiterals:
+  EnforcedStyle: single_quotes
+Layout/IndentationWidth:
+  Width: 2
+Layout/EmptyLines:
+  Enabled: true
